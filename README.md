@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon needfull for theese [sic] times wherein is shewed, the insolencies of Naash King of Ammon, 
+
+1. TO THE NO LESSE VERTVOVS THEN HONOrable, Sir HENRY NORREIS Knight, Lorde Norreis, Barron OF RICOT, ENCREASE OF HONOR, WITH ALL grace, and all felicity. (*⁎*)
+
 #####Body#####
-A sermon needfull for theese [sic] times wherein is shewed, the insolencies of Naash King of Ammon, 
+
+1. A SERMON PREACHED AT Paules Croſſe.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
